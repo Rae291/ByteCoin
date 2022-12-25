@@ -1,5 +1,5 @@
 # ByteCoin
-A storyboard based app that shows the rate of 1 bitcoin in various currencies.
+A storyboard based app that shows the rate of 1 bitcoin in various currencies. It uses coinapi.io API to fetch the data. Based on MVC Design pattern. 
 
 
 
